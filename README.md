@@ -16,6 +16,7 @@
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Peewee](https://img.shields.io/badge/Peewee-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ![Aiogram](https://img.shields.io/badge/Aiogram-2C2F73?style=for-the-badge&logo=telegram&logoColor=white)
 ![Python Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)

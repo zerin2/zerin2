@@ -3,11 +3,12 @@
 ### 🛠️ Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge&logo=python&logoColor=white)
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF0000?style=for-the-badge&logo=rest&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge&logo=python&logoColor=white)
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)

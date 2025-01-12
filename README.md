@@ -1,4 +1,4 @@
-## 👋 Sterlyukin Vladislav
+## 👋 Sterlyukin Vladislav (Python Developer)
 
 ### 🛠️ Tech Stack:
 

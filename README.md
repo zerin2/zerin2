@@ -20,6 +20,7 @@ Python-разработчик, специализирующийся на соз�
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Django ORM](https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Peewee](https://img.shields.io/badge/Peewee-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Aiogram](https://img.shields.io/badge/Aiogram-2C2F73?style=for-the-badge&logo=telegram&logoColor=white)
 ![Python Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
@@ -30,7 +31,6 @@ Python-разработчик, специализирующийся на соз�
 ![CI/CD](https://img.shields.io/badge/CI/CD-2C2F73?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-2589BD?style=for-the-badge&logo=html5&logoColor=white)

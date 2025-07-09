@@ -45,7 +45,8 @@ Python-разработчик, специализирующийся на соз�
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=zerin2&hide=contribs&show_icons=true&theme=github_dark" />
 </a> -->
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zerin2&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide=contribs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zerin2&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide=contribs"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zerin2&theme=darkhub&rank=-C,-B,-?" />
 </p>
 
 ### 👨🏻‍💻 Projects:

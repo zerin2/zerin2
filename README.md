@@ -49,6 +49,6 @@ Python-разработчик, специализирующийся на соз�
 ### 📞 Contacts:
 ---
 - email: vla-sterlyukin@ya.ru
-- telegram: [@vlad_418](https://t.me/vlad_418)
+- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/vlad_418)
 
 

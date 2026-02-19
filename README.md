@@ -35,17 +35,18 @@ Python-разработчик, специализирующийся на соз�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
+<!-- 
 ### 📊 My stats:
 ---
 <div>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=zerin2&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=zerin2&hide=contribs&show_icons=true&theme=github_dark" />
-</a> -->
+</a> 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=zerin2&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide=contribs"/>
   <img src="https://github-profile-trophy.vercel.app/?username=zerin2&theme=darkhub&rank=-C,-?" />
 </p>
+-->
 
 ### 👨🏻‍💻 Projects:
 ---

@@ -26,10 +26,10 @@
 ---
 | Project | Description | Stack |
 |---|---|---|
-| [Portfolio Website]([ссылка](https://sterlyukin.com)) | Личный сайт-портфолио с деплоем через Docker и Nginx | FastAPI, Jinja, Bootstrap, Docker |
-| [Email Broadcast]([ссылка](https://github.com/zerin2/email_broadcast)) | Асинхронный микросервис доставки уведомлений с очередями и фоновой обработкой | Django, Dramatiq, PostgreSQL, Docker |
-| [Yerevan Utilities Bot]([ссылка](https://github.com/zerin2/yerevan_utilities_bot)) | Telegram-бот для получения информации о коммунальных услугах | FastAPI, Aiogram, Redis |
-| [Public Quest Bot]([ссылка](https://github.com/zerin2/public_quest_bot)) | Интерактивный Telegram-квест со сценами и пользовательскими состояниями | Aiogram, SQLAlchemy, Redis |
+| [Portfolio Website](https://sterlyukin.com) | Личный сайт-портфолио с деплоем через Docker и Nginx | FastAPI, Jinja, Bootstrap, Docker |
+| [Email Broadcast](https://github.com/zerin2/email_broadcast) | Асинхронный микросервис доставки уведомлений с очередями и фоновой обработкой | Django, Dramatiq, PostgreSQL, Docker |
+| [Yerevan Utilities Bot](https://github.com/zerin2/yerevan_utilities_bot) | Telegram-бот для получения информации о коммунальных услугах | FastAPI, Aiogram, Redis |
+| [Public Quest Bot](https://github.com/zerin2/public_quest_bot) | Интерактивный Telegram-квест со сценами и пользовательскими состояниями | Aiogram, SQLAlchemy, Redis |
 
 ### 📌 Currently focused on
 ---

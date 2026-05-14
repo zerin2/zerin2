@@ -14,18 +14,6 @@
 **DevOps:** Docker, Nginx, Gunicorn, Linux  
 **Testing:** Pytest, Unittest  
 **Frontend basics:** HTML, CSS, Bootstrap, HTMX
-<!-- 
-### 📊 My stats:
----
-<div>
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=zerin2&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=zerin2&hide=contribs&show_icons=true&theme=github_dark" />
-</a> 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zerin2&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide=contribs"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zerin2&theme=darkhub&rank=-C,-?" />
-</p>
--->
 
 ### 🚀 What I build
 ---
@@ -38,10 +26,10 @@
 ---
 | Project | Description | Stack |
 |---|---|---|
-| [Portfolio Website](ссылка) | Личный сайт-портфолио с деплоем через Docker и Nginx | FastAPI, Jinja, Bootstrap, Docker |
-| [Email Broadcast](ссылка) | Асинхронный микросервис доставки уведомлений с очередями и фоновой обработкой | Django, Dramatiq, PostgreSQL, Docker |
-| [Yerevan Utilities Bot](ссылка) | Telegram-бот для получения информации о коммунальных услугах | FastAPI, Aiogram, Redis |
-| [Public Quest Bot](ссылка) | Интерактивный Telegram-квест со сценами и пользовательскими состояниями | Aiogram, SQLAlchemy, Redis |
+| [Portfolio Website]([ссылка](https://sterlyukin.com)) | Личный сайт-портфолио с деплоем через Docker и Nginx | FastAPI, Jinja, Bootstrap, Docker |
+| [Email Broadcast]([ссылка](https://github.com/zerin2/email_broadcast)) | Асинхронный микросервис доставки уведомлений с очередями и фоновой обработкой | Django, Dramatiq, PostgreSQL, Docker |
+| [Yerevan Utilities Bot]([ссылка](https://github.com/zerin2/yerevan_utilities_bot)) | Telegram-бот для получения информации о коммунальных услугах | FastAPI, Aiogram, Redis |
+| [Public Quest Bot]([ссылка](https://github.com/zerin2/public_quest_bot)) | Интерактивный Telegram-квест со сценами и пользовательскими состояниями | Aiogram, SQLAlchemy, Redis |
 
 ### 📌 Currently focused on
 ---

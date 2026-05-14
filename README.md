@@ -1,8 +1,8 @@
-# 👋 Sterlyukin Vladislav (Python Developer)
+# 👋 Sterlyukin Vladislav — Python Backend Developer
 
-Python-разработчик, специализирующийся на создании REST API, микросервисах и асинхронном программировании. Имею опыт работы с брокерами сообщений (Celery, Dramatiq) и инструментами для эффективной обработки фоновых задач. 
-Активно использую FastAPI. Постоянно развиваюсь в области контейнеризации и деплоя приложений.
+Разрабатываю backend-сервисы, REST API, Telegram-ботов и микросервисы на Python.
 
+Фокус: FastAPI · SQLAlchemy 2.0 · PostgreSQL · Redis · Docker · ARQ/Dramatiq · Aiogram
 
 ### 🛠️ Tech Stack:
 ---
